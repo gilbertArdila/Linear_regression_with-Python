@@ -56,6 +56,12 @@ Se realizaron las siguientes transformaciones:
 
 ## 📈 Análisis Exploratorio (EDA)
 
+<p align="center">
+  <img src="https://github.com/gilbertArdila/Linear_regression_with-Python/blob/main/preciovstamano.jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/gilbertArdila/Linear_regression_with-Python/blob/main/preciovsubicacion.jpg" width="600">
+</p>
 Durante el análisis se evaluó:
 
 * Distribución de variables
@@ -91,7 +97,15 @@ Se realizaron las siguientes transformaciones:
 ## 🤖 Modelo de Regresión Lineal
 
 Se implementó un modelo de regresión lineal utilizando `scikit-learn`.
-
+<p align="center">
+  <img src="https://github.com/gilbertArdila/Linear_regression_with-Python/blob/main/graficos_exploratorios.jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/gilbertArdila/Linear_regression_with-Python/blob/main/prediccion.jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/gilbertArdila/Linear_regression_with-Python/blob/main/residuos.jpg" width="600">
+</p>
 ### 🔹 Proceso:
 
 * Separación en entrenamiento y prueba (80/20)
